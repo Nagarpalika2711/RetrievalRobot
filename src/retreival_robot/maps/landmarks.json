@@ -1,0 +1,3207 @@
+{
+  "frame_id": "map",
+  "world": "retrieval_landmarks",
+  "radius_m": 0.25,
+  "landmarks": [
+    {
+      "id": "C01",
+      "x": -40.0,
+      "y": -40.0,
+      "z_base": 0.0,
+      "color": "red",
+      "radius": 0.25
+    },
+    {
+      "id": "C02",
+      "x": -20.0,
+      "y": -35.0,
+      "z_base": 0.0,
+      "color": "green",
+      "radius": 0.25
+    },
+    {
+      "id": "C03",
+      "x": 0.0,
+      "y": -42.0,
+      "z_base": 0.0,
+      "color": "blue",
+      "radius": 0.25
+    },
+    {
+      "id": "C04",
+      "x": 20.0,
+      "y": -35.0,
+      "z_base": 0.0,
+      "color": "yellow",
+      "radius": 0.25
+    },
+    {
+      "id": "C05",
+      "x": 40.0,
+      "y": -40.0,
+      "z_base": 0.0,
+      "color": "magenta",
+      "radius": 0.25
+    },
+    {
+      "id": "C06",
+      "x": -45.0,
+      "y": -15.0,
+      "z_base": 0.0,
+      "color": "cyan",
+      "radius": 0.25
+    },
+    {
+      "id": "C07",
+      "x": -25.0,
+      "y": -10.0,
+      "z_base": 0.0,
+      "color": "orange",
+      "radius": 0.25
+    },
+    {
+      "id": "C08",
+      "x": -5.0,
+      "y": -18.0,
+      "z_base": 0.0,
+      "color": "purple",
+      "radius": 0.25
+    },
+    {
+      "id": "C09",
+      "x": 15.0,
+      "y": -8.0,
+      "z_base": 0.0,
+      "color": "lime",
+      "radius": 0.25
+    },
+    {
+      "id": "C10",
+      "x": 35.0,
+      "y": -12.0,
+      "z_base": 0.0,
+      "color": "coral",
+      "radius": 0.25
+    },
+    {
+      "id": "C11",
+      "x": -38.0,
+      "y": 12.0,
+      "z_base": 0.0,
+      "color": "sky_blue",
+      "radius": 0.25
+    },
+    {
+      "id": "C12",
+      "x": -18.0,
+      "y": 20.0,
+      "z_base": 0.0,
+      "color": "pink",
+      "radius": 0.25
+    },
+    {
+      "id": "C13",
+      "x": 0.0,
+      "y": 10.0,
+      "z_base": 0.0,
+      "color": "olive",
+      "radius": 0.25
+    },
+    {
+      "id": "C14",
+      "x": 22.0,
+      "y": 18.0,
+      "z_base": 0.0,
+      "color": "light_green",
+      "radius": 0.25
+    },
+    {
+      "id": "C15",
+      "x": 42.0,
+      "y": 15.0,
+      "z_base": 0.0,
+      "color": "light_red",
+      "radius": 0.25
+    },
+    {
+      "id": "C16",
+      "x": -42.0,
+      "y": 38.0,
+      "z_base": 0.0,
+      "color": "red",
+      "radius": 0.25
+    },
+    {
+      "id": "C17",
+      "x": -20.0,
+      "y": 42.0,
+      "z_base": 0.0,
+      "color": "green",
+      "radius": 0.25
+    },
+    {
+      "id": "C18",
+      "x": 0.0,
+      "y": 36.0,
+      "z_base": 0.0,
+      "color": "blue",
+      "radius": 0.25
+    },
+    {
+      "id": "C19",
+      "x": 25.0,
+      "y": 44.0,
+      "z_base": 0.0,
+      "color": "yellow",
+      "radius": 0.25
+    },
+    {
+      "id": "C20",
+      "x": 44.0,
+      "y": 38.0,
+      "z_base": 0.0,
+      "color": "magenta",
+      "radius": 0.25
+    },
+    {
+      "id": "C021",
+      "x": -47.813,
+      "y": -46.573,
+      "z_base": 0.0,
+      "color": "cyan",
+      "radius": 0.25
+    },
+    {
+      "id": "C022",
+      "x": -36.323,
+      "y": -50.136,
+      "z_base": 0.0,
+      "color": "orange",
+      "radius": 0.25
+    },
+    {
+      "id": "C023",
+      "x": -29.939,
+      "y": -46.128,
+      "z_base": 0.0,
+      "color": "purple",
+      "radius": 0.25
+    },
+    {
+      "id": "C024",
+      "x": -15.204,
+      "y": -50.378,
+      "z_base": 0.0,
+      "color": "lime",
+      "radius": 0.25
+    },
+    {
+      "id": "C025",
+      "x": -7.721,
+      "y": -48.968,
+      "z_base": 0.0,
+      "color": "coral",
+      "radius": 0.25
+    },
+    {
+      "id": "C026",
+      "x": 4.962,
+      "y": -49.352,
+      "z_base": 0.0,
+      "color": "sky_blue",
+      "radius": 0.25
+    },
+    {
+      "id": "C027",
+      "x": 18.417,
+      "y": -48.149,
+      "z_base": 0.0,
+      "color": "pink",
+      "radius": 0.25
+    },
+    {
+      "id": "C028",
+      "x": 29.176,
+      "y": -50.791,
+      "z_base": 0.0,
+      "color": "olive",
+      "radius": 0.25
+    },
+    {
+      "id": "C029",
+      "x": 38.452,
+      "y": -46.597,
+      "z_base": 0.0,
+      "color": "light_green",
+      "radius": 0.25
+    },
+    {
+      "id": "C030",
+      "x": 47.689,
+      "y": -50.16,
+      "z_base": 0.0,
+      "color": "light_red",
+      "radius": 0.25
+    },
+    {
+      "id": "C031",
+      "x": -50.076,
+      "y": -31.97,
+      "z_base": 0.0,
+      "color": "red",
+      "radius": 0.25
+    },
+    {
+      "id": "C032",
+      "x": -38.88,
+      "y": -33.095,
+      "z_base": 0.0,
+      "color": "green",
+      "radius": 0.25
+    },
+    {
+      "id": "C033",
+      "x": -29.279,
+      "y": -34.255,
+      "z_base": 0.0,
+      "color": "blue",
+      "radius": 0.25
+    },
+    {
+      "id": "C034",
+      "x": -15.244,
+      "y": -35.036,
+      "z_base": 0.0,
+      "color": "yellow",
+      "radius": 0.25
+    },
+    {
+      "id": "C035",
+      "x": -3.75,
+      "y": -31.527,
+      "z_base": 0.0,
+      "color": "magenta",
+      "radius": 0.25
+    },
+    {
+      "id": "C036",
+      "x": 5.347,
+      "y": -36.293,
+      "z_base": 0.0,
+      "color": "cyan",
+      "radius": 0.25
+    },
+    {
+      "id": "C037",
+      "x": 13.605,
+      "y": -33.764,
+      "z_base": 0.0,
+      "color": "orange",
+      "radius": 0.25
+    },
+    {
+      "id": "C038",
+      "x": 25.32,
+      "y": -35.002,
+      "z_base": 0.0,
+      "color": "purple",
+      "radius": 0.25
+    },
+    {
+      "id": "C039",
+      "x": 40.634,
+      "y": -31.897,
+      "z_base": 0.0,
+      "color": "lime",
+      "radius": 0.25
+    },
+    {
+      "id": "C040",
+      "x": 47.061,
+      "y": -32.61,
+      "z_base": 0.0,
+      "color": "coral",
+      "radius": 0.25
+    },
+    {
+      "id": "C041",
+      "x": -46.979,
+      "y": -23.368,
+      "z_base": 0.0,
+      "color": "sky_blue",
+      "radius": 0.25
+    },
+    {
+      "id": "C042",
+      "x": -35.621,
+      "y": -19.108,
+      "z_base": 0.0,
+      "color": "pink",
+      "radius": 0.25
+    },
+    {
+      "id": "C043",
+      "x": -29.758,
+      "y": -22.525,
+      "z_base": 0.0,
+      "color": "olive",
+      "radius": 0.25
+    },
+    {
+      "id": "C044",
+      "x": -16.99,
+      "y": -22.716,
+      "z_base": 0.0,
+      "color": "light_green",
+      "radius": 0.25
+    },
+    {
+      "id": "C045",
+      "x": -7.063,
+      "y": -22.812,
+      "z_base": 0.0,
+      "color": "light_red",
+      "radius": 0.25
+    },
+    {
+      "id": "C046",
+      "x": 6.392,
+      "y": -20.062,
+      "z_base": 0.0,
+      "color": "red",
+      "radius": 0.25
+    },
+    {
+      "id": "C047",
+      "x": 17.342,
+      "y": -20.965,
+      "z_base": 0.0,
+      "color": "green",
+      "radius": 0.25
+    },
+    {
+      "id": "C048",
+      "x": 24.857,
+      "y": -20.127,
+      "z_base": 0.0,
+      "color": "blue",
+      "radius": 0.25
+    },
+    {
+      "id": "C049",
+      "x": 39.955,
+      "y": -23.16,
+      "z_base": 0.0,
+      "color": "yellow",
+      "radius": 0.25
+    },
+    {
+      "id": "C050",
+      "x": 47.452,
+      "y": -22.107,
+      "z_base": 0.0,
+      "color": "magenta",
+      "radius": 0.25
+    },
+    {
+      "id": "C051",
+      "x": -51.472,
+      "y": -5.145,
+      "z_base": 0.0,
+      "color": "cyan",
+      "radius": 0.25
+    },
+    {
+      "id": "C052",
+      "x": -39.718,
+      "y": -9.455,
+      "z_base": 0.0,
+      "color": "orange",
+      "radius": 0.25
+    },
+    {
+      "id": "C053",
+      "x": -27.217,
+      "y": -4.582,
+      "z_base": 0.0,
+      "color": "purple",
+      "radius": 0.25
+    },
+    {
+      "id": "C054",
+      "x": -14.762,
+      "y": -5.678,
+      "z_base": 0.0,
+      "color": "lime",
+      "radius": 0.25
+    },
+    {
+      "id": "C055",
+      "x": -7.492,
+      "y": -5.861,
+      "z_base": 0.0,
+      "color": "coral",
+      "radius": 0.25
+    },
+    {
+      "id": "C056",
+      "x": 5.118,
+      "y": -6.527,
+      "z_base": 0.0,
+      "color": "sky_blue",
+      "radius": 0.25
+    },
+    {
+      "id": "C057",
+      "x": 16.907,
+      "y": -4.243,
+      "z_base": 0.0,
+      "color": "pink",
+      "radius": 0.25
+    },
+    {
+      "id": "C058",
+      "x": 28.703,
+      "y": -7.103,
+      "z_base": 0.0,
+      "color": "olive",
+      "radius": 0.25
+    },
+    {
+      "id": "C059",
+      "x": 38.419,
+      "y": -5.213,
+      "z_base": 0.0,
+      "color": "light_green",
+      "radius": 0.25
+    },
+    {
+      "id": "C060",
+      "x": 49.066,
+      "y": -5.22,
+      "z_base": 0.0,
+      "color": "light_red",
+      "radius": 0.25
+    },
+    {
+      "id": "C061",
+      "x": -46.202,
+      "y": 7.692,
+      "z_base": 0.0,
+      "color": "red",
+      "radius": 0.25
+    },
+    {
+      "id": "C062",
+      "x": -35.316,
+      "y": 7.87,
+      "z_base": 0.0,
+      "color": "green",
+      "radius": 0.25
+    },
+    {
+      "id": "C063",
+      "x": -24.903,
+      "y": 5.319,
+      "z_base": 0.0,
+      "color": "blue",
+      "radius": 0.25
+    },
+    {
+      "id": "C064",
+      "x": -13.82,
+      "y": 5.068,
+      "z_base": 0.0,
+      "color": "yellow",
+      "radius": 0.25
+    },
+    {
+      "id": "C065",
+      "x": -6.847,
+      "y": 5.528,
+      "z_base": 0.0,
+      "color": "magenta",
+      "radius": 0.25
+    },
+    {
+      "id": "C066",
+      "x": 7.239,
+      "y": 5.801,
+      "z_base": 0.0,
+      "color": "cyan",
+      "radius": 0.25
+    },
+    {
+      "id": "C067",
+      "x": 17.98,
+      "y": 7.504,
+      "z_base": 0.0,
+      "color": "orange",
+      "radius": 0.25
+    },
+    {
+      "id": "C068",
+      "x": 26.657,
+      "y": 6.697,
+      "z_base": 0.0,
+      "color": "purple",
+      "radius": 0.25
+    },
+    {
+      "id": "C069",
+      "x": 40.782,
+      "y": 6.994,
+      "z_base": 0.0,
+      "color": "lime",
+      "radius": 0.25
+    },
+    {
+      "id": "C070",
+      "x": 48.362,
+      "y": 4.193,
+      "z_base": 0.0,
+      "color": "coral",
+      "radius": 0.25
+    },
+    {
+      "id": "C071",
+      "x": -49.778,
+      "y": 21.512,
+      "z_base": 0.0,
+      "color": "sky_blue",
+      "radius": 0.25
+    },
+    {
+      "id": "C072",
+      "x": -39.525,
+      "y": 19.429,
+      "z_base": 0.0,
+      "color": "pink",
+      "radius": 0.25
+    },
+    {
+      "id": "C073",
+      "x": -24.79,
+      "y": 19.165,
+      "z_base": 0.0,
+      "color": "olive",
+      "radius": 0.25
+    },
+    {
+      "id": "C074",
+      "x": -14.769,
+      "y": 22.522,
+      "z_base": 0.0,
+      "color": "light_green",
+      "radius": 0.25
+    },
+    {
+      "id": "C075",
+      "x": -5.003,
+      "y": 21.143,
+      "z_base": 0.0,
+      "color": "light_red",
+      "radius": 0.25
+    },
+    {
+      "id": "C076",
+      "x": 5.347,
+      "y": 22.29,
+      "z_base": 0.0,
+      "color": "red",
+      "radius": 0.25
+    },
+    {
+      "id": "C077",
+      "x": 16.656,
+      "y": 18.679,
+      "z_base": 0.0,
+      "color": "green",
+      "radius": 0.25
+    },
+    {
+      "id": "C078",
+      "x": 28.31,
+      "y": 20.315,
+      "z_base": 0.0,
+      "color": "blue",
+      "radius": 0.25
+    },
+    {
+      "id": "C079",
+      "x": 37.193,
+      "y": 20.325,
+      "z_base": 0.0,
+      "color": "yellow",
+      "radius": 0.25
+    },
+    {
+      "id": "C080",
+      "x": 47.212,
+      "y": 18.91,
+      "z_base": 0.0,
+      "color": "magenta",
+      "radius": 0.25
+    },
+    {
+      "id": "C081",
+      "x": -48.878,
+      "y": 33.187,
+      "z_base": 0.0,
+      "color": "cyan",
+      "radius": 0.25
+    },
+    {
+      "id": "C082",
+      "x": -36.258,
+      "y": 32.605,
+      "z_base": 0.0,
+      "color": "orange",
+      "radius": 0.25
+    },
+    {
+      "id": "C083",
+      "x": -25.753,
+      "y": 33.44,
+      "z_base": 0.0,
+      "color": "purple",
+      "radius": 0.25
+    },
+    {
+      "id": "C084",
+      "x": -13.822,
+      "y": 36.276,
+      "z_base": 0.0,
+      "color": "lime",
+      "radius": 0.25
+    },
+    {
+      "id": "C085",
+      "x": -3.246,
+      "y": 33.122,
+      "z_base": 0.0,
+      "color": "coral",
+      "radius": 0.25
+    },
+    {
+      "id": "C086",
+      "x": 4.347,
+      "y": 32.47,
+      "z_base": 0.0,
+      "color": "sky_blue",
+      "radius": 0.25
+    },
+    {
+      "id": "C087",
+      "x": 13.82,
+      "y": 31.958,
+      "z_base": 0.0,
+      "color": "pink",
+      "radius": 0.25
+    },
+    {
+      "id": "C088",
+      "x": 28.13,
+      "y": 32.173,
+      "z_base": 0.0,
+      "color": "olive",
+      "radius": 0.25
+    },
+    {
+      "id": "C089",
+      "x": 38.96,
+      "y": 34.583,
+      "z_base": 0.0,
+      "color": "light_green",
+      "radius": 0.25
+    },
+    {
+      "id": "C090",
+      "x": 50.997,
+      "y": 36.057,
+      "z_base": 0.0,
+      "color": "light_red",
+      "radius": 0.25
+    },
+    {
+      "id": "C091",
+      "x": -46.835,
+      "y": 48.656,
+      "z_base": 0.0,
+      "color": "red",
+      "radius": 0.25
+    },
+    {
+      "id": "C092",
+      "x": -37.422,
+      "y": 48.25,
+      "z_base": 0.0,
+      "color": "green",
+      "radius": 0.25
+    },
+    {
+      "id": "C093",
+      "x": -28.859,
+      "y": 45.922,
+      "z_base": 0.0,
+      "color": "blue",
+      "radius": 0.25
+    },
+    {
+      "id": "C094",
+      "x": -16.691,
+      "y": 45.259,
+      "z_base": 0.0,
+      "color": "yellow",
+      "radius": 0.25
+    },
+    {
+      "id": "C095",
+      "x": -5.378,
+      "y": 46.298,
+      "z_base": 0.0,
+      "color": "magenta",
+      "radius": 0.25
+    },
+    {
+      "id": "C096",
+      "x": 8.108,
+      "y": 47.437,
+      "z_base": 0.0,
+      "color": "cyan",
+      "radius": 0.25
+    },
+    {
+      "id": "C097",
+      "x": 14.694,
+      "y": 49.804,
+      "z_base": 0.0,
+      "color": "orange",
+      "radius": 0.25
+    },
+    {
+      "id": "C098",
+      "x": 27.903,
+      "y": 47.084,
+      "z_base": 0.0,
+      "color": "purple",
+      "radius": 0.25
+    },
+    {
+      "id": "C099",
+      "x": 37.994,
+      "y": 49.435,
+      "z_base": 0.0,
+      "color": "lime",
+      "radius": 0.25
+    },
+    {
+      "id": "C100",
+      "x": 50.303,
+      "y": 48.937,
+      "z_base": 0.0,
+      "color": "coral",
+      "radius": 0.25
+    },
+    {
+      "id": "C101",
+      "x": 15.409,
+      "y": -44.571,
+      "z_base": 0.0,
+      "color": "sky_blue",
+      "radius": 0.25
+    },
+    {
+      "id": "C102",
+      "x": 51.011,
+      "y": -10.69,
+      "z_base": 0.0,
+      "color": "pink",
+      "radius": 0.25
+    },
+    {
+      "id": "C103",
+      "x": -53.76,
+      "y": 52.024,
+      "z_base": 0.0,
+      "color": "olive",
+      "radius": 0.25
+    },
+    {
+      "id": "C104",
+      "x": -0.512,
+      "y": -35.013,
+      "z_base": 0.0,
+      "color": "light_green",
+      "radius": 0.25
+    },
+    {
+      "id": "C105",
+      "x": 36.097,
+      "y": -44.361,
+      "z_base": 0.0,
+      "color": "light_red",
+      "radius": 0.25
+    },
+    {
+      "id": "C106",
+      "x": -3.425,
+      "y": -51.677,
+      "z_base": 0.0,
+      "color": "red",
+      "radius": 0.25
+    },
+    {
+      "id": "C107",
+      "x": -20.691,
+      "y": 28.281,
+      "z_base": 0.0,
+      "color": "green",
+      "radius": 0.25
+    },
+    {
+      "id": "C108",
+      "x": 27.499,
+      "y": -30.568,
+      "z_base": 0.0,
+      "color": "blue",
+      "radius": 0.25
+    },
+    {
+      "id": "C109",
+      "x": -52.206,
+      "y": 43.103,
+      "z_base": 0.0,
+      "color": "yellow",
+      "radius": 0.25
+    },
+    {
+      "id": "C110",
+      "x": -2.683,
+      "y": 12.851,
+      "z_base": 0.0,
+      "color": "magenta",
+      "radius": 0.25
+    },
+    {
+      "id": "C111",
+      "x": -25.639,
+      "y": 43.281,
+      "z_base": 0.0,
+      "color": "cyan",
+      "radius": 0.25
+    },
+    {
+      "id": "C112",
+      "x": -42.096,
+      "y": -23.087,
+      "z_base": 0.0,
+      "color": "orange",
+      "radius": 0.25
+    },
+    {
+      "id": "C113",
+      "x": -22.084,
+      "y": -15.261,
+      "z_base": 0.0,
+      "color": "purple",
+      "radius": 0.25
+    },
+    {
+      "id": "C114",
+      "x": 0.459,
+      "y": -19.24,
+      "z_base": 0.0,
+      "color": "lime",
+      "radius": 0.25
+    },
+    {
+      "id": "C115",
+      "x": -1.686,
+      "y": -3.475,
+      "z_base": 0.0,
+      "color": "coral",
+      "radius": 0.25
+    },
+    {
+      "id": "C116",
+      "x": 21.581,
+      "y": -12.13,
+      "z_base": 0.0,
+      "color": "sky_blue",
+      "radius": 0.25
+    },
+    {
+      "id": "C117",
+      "x": -22.635,
+      "y": 15.304,
+      "z_base": 0.0,
+      "color": "pink",
+      "radius": 0.25
+    },
+    {
+      "id": "C118",
+      "x": -9.004,
+      "y": -15.204,
+      "z_base": 0.0,
+      "color": "olive",
+      "radius": 0.25
+    },
+    {
+      "id": "C119",
+      "x": -51.825,
+      "y": -37.556,
+      "z_base": 0.0,
+      "color": "light_green",
+      "radius": 0.25
+    },
+    {
+      "id": "C120",
+      "x": 44.524,
+      "y": 34.671,
+      "z_base": 0.0,
+      "color": "light_red",
+      "radius": 0.25
+    },
+    {
+      "id": "C121",
+      "x": -23.772,
+      "y": -37.505,
+      "z_base": 0.0,
+      "color": "red",
+      "radius": 0.25
+    },
+    {
+      "id": "C122",
+      "x": 39.741,
+      "y": -50.882,
+      "z_base": 0.0,
+      "color": "green",
+      "radius": 0.25
+    },
+    {
+      "id": "C123",
+      "x": 21.334,
+      "y": 14.118,
+      "z_base": 0.0,
+      "color": "blue",
+      "radius": 0.25
+    },
+    {
+      "id": "C124",
+      "x": 17.523,
+      "y": 14.498,
+      "z_base": 0.0,
+      "color": "yellow",
+      "radius": 0.25
+    },
+    {
+      "id": "C125",
+      "x": -35.099,
+      "y": 0.175,
+      "z_base": 0.0,
+      "color": "magenta",
+      "radius": 0.25
+    },
+    {
+      "id": "C126",
+      "x": 40.064,
+      "y": 40.003,
+      "z_base": 0.0,
+      "color": "cyan",
+      "radius": 0.25
+    },
+    {
+      "id": "C127",
+      "x": -26.077,
+      "y": 10.783,
+      "z_base": 0.0,
+      "color": "orange",
+      "radius": 0.25
+    },
+    {
+      "id": "C128",
+      "x": -23.528,
+      "y": -30.193,
+      "z_base": 0.0,
+      "color": "purple",
+      "radius": 0.25
+    },
+    {
+      "id": "C129",
+      "x": 38.19,
+      "y": 43.559,
+      "z_base": 0.0,
+      "color": "lime",
+      "radius": 0.25
+    },
+    {
+      "id": "C130",
+      "x": -44.94,
+      "y": 39.853,
+      "z_base": 0.0,
+      "color": "coral",
+      "radius": 0.25
+    },
+    {
+      "id": "C131",
+      "x": -38.559,
+      "y": 4.64,
+      "z_base": 0.0,
+      "color": "sky_blue",
+      "radius": 0.25
+    },
+    {
+      "id": "C132",
+      "x": -9.731,
+      "y": -39.566,
+      "z_base": 0.0,
+      "color": "pink",
+      "radius": 0.25
+    },
+    {
+      "id": "C133",
+      "x": 51.132,
+      "y": 27.043,
+      "z_base": 0.0,
+      "color": "olive",
+      "radius": 0.25
+    },
+    {
+      "id": "C134",
+      "x": 21.391,
+      "y": -47.558,
+      "z_base": 0.0,
+      "color": "light_green",
+      "radius": 0.25
+    },
+    {
+      "id": "C135",
+      "x": 36.118,
+      "y": -53.991,
+      "z_base": 0.0,
+      "color": "light_red",
+      "radius": 0.25
+    },
+    {
+      "id": "C136",
+      "x": -43.546,
+      "y": -30.77,
+      "z_base": 0.0,
+      "color": "red",
+      "radius": 0.25
+    },
+    {
+      "id": "C137",
+      "x": 44.373,
+      "y": 26.268,
+      "z_base": 0.0,
+      "color": "green",
+      "radius": 0.25
+    },
+    {
+      "id": "C138",
+      "x": 41.453,
+      "y": -9.012,
+      "z_base": 0.0,
+      "color": "blue",
+      "radius": 0.25
+    },
+    {
+      "id": "C139",
+      "x": -23.216,
+      "y": 24.36,
+      "z_base": 0.0,
+      "color": "yellow",
+      "radius": 0.25
+    },
+    {
+      "id": "C140",
+      "x": -18.712,
+      "y": 30.905,
+      "z_base": 0.0,
+      "color": "magenta",
+      "radius": 0.25
+    },
+    {
+      "id": "C141",
+      "x": 16.88,
+      "y": -10.98,
+      "z_base": 0.0,
+      "color": "cyan",
+      "radius": 0.25
+    },
+    {
+      "id": "C142",
+      "x": 13.698,
+      "y": 8.708,
+      "z_base": 0.0,
+      "color": "orange",
+      "radius": 0.25
+    },
+    {
+      "id": "C143",
+      "x": 52.305,
+      "y": 21.574,
+      "z_base": 0.0,
+      "color": "purple",
+      "radius": 0.25
+    },
+    {
+      "id": "C144",
+      "x": 23.049,
+      "y": 1.604,
+      "z_base": 0.0,
+      "color": "lime",
+      "radius": 0.25
+    },
+    {
+      "id": "C145",
+      "x": 50.387,
+      "y": -25.127,
+      "z_base": 0.0,
+      "color": "coral",
+      "radius": 0.25
+    },
+    {
+      "id": "C146",
+      "x": -28.499,
+      "y": -42.443,
+      "z_base": 0.0,
+      "color": "sky_blue",
+      "radius": 0.25
+    },
+    {
+      "id": "C147",
+      "x": -0.343,
+      "y": 43.564,
+      "z_base": 0.0,
+      "color": "pink",
+      "radius": 0.25
+    },
+    {
+      "id": "C148",
+      "x": 24.314,
+      "y": -24.137,
+      "z_base": 0.0,
+      "color": "olive",
+      "radius": 0.25
+    },
+    {
+      "id": "C149",
+      "x": 34.392,
+      "y": 29.989,
+      "z_base": 0.0,
+      "color": "light_green",
+      "radius": 0.25
+    },
+    {
+      "id": "C150",
+      "x": -9.362,
+      "y": -45.942,
+      "z_base": 0.0,
+      "color": "light_red",
+      "radius": 0.25
+    },
+    {
+      "id": "C151",
+      "x": -38.276,
+      "y": 40.659,
+      "z_base": 0.0,
+      "color": "red",
+      "radius": 0.25
+    },
+    {
+      "id": "C152",
+      "x": 31.939,
+      "y": 38.299,
+      "z_base": 0.0,
+      "color": "green",
+      "radius": 0.25
+    },
+    {
+      "id": "C153",
+      "x": 32.456,
+      "y": -49.38,
+      "z_base": 0.0,
+      "color": "blue",
+      "radius": 0.25
+    },
+    {
+      "id": "C154",
+      "x": 24.464,
+      "y": 10.475,
+      "z_base": 0.0,
+      "color": "yellow",
+      "radius": 0.25
+    },
+    {
+      "id": "C155",
+      "x": -18.594,
+      "y": 13.929,
+      "z_base": 0.0,
+      "color": "magenta",
+      "radius": 0.25
+    },
+    {
+      "id": "C156",
+      "x": 32.285,
+      "y": 51.215,
+      "z_base": 0.0,
+      "color": "cyan",
+      "radius": 0.25
+    },
+    {
+      "id": "C157",
+      "x": 18.46,
+      "y": 3.551,
+      "z_base": 0.0,
+      "color": "orange",
+      "radius": 0.25
+    },
+    {
+      "id": "C158",
+      "x": -30.971,
+      "y": 49.466,
+      "z_base": 0.0,
+      "color": "purple",
+      "radius": 0.25
+    },
+    {
+      "id": "C159",
+      "x": 18.462,
+      "y": -52.469,
+      "z_base": 0.0,
+      "color": "lime",
+      "radius": 0.25
+    },
+    {
+      "id": "C160",
+      "x": 36.117,
+      "y": -29.353,
+      "z_base": 0.0,
+      "color": "coral",
+      "radius": 0.25
+    },
+    {
+      "id": "C161",
+      "x": -14.455,
+      "y": 28.866,
+      "z_base": 0.0,
+      "color": "sky_blue",
+      "radius": 0.25
+    },
+    {
+      "id": "C162",
+      "x": -50.447,
+      "y": -16.353,
+      "z_base": 0.0,
+      "color": "pink",
+      "radius": 0.25
+    },
+    {
+      "id": "C163",
+      "x": -28.392,
+      "y": -31.176,
+      "z_base": 0.0,
+      "color": "olive",
+      "radius": 0.25
+    },
+    {
+      "id": "C164",
+      "x": -50.764,
+      "y": -10.989,
+      "z_base": 0.0,
+      "color": "light_green",
+      "radius": 0.25
+    },
+    {
+      "id": "C165",
+      "x": 48.08,
+      "y": 9.501,
+      "z_base": 0.0,
+      "color": "light_red",
+      "radius": 0.25
+    },
+    {
+      "id": "C166",
+      "x": 34.047,
+      "y": -34.113,
+      "z_base": 0.0,
+      "color": "red",
+      "radius": 0.25
+    },
+    {
+      "id": "C167",
+      "x": -34.862,
+      "y": 4.869,
+      "z_base": 0.0,
+      "color": "green",
+      "radius": 0.25
+    },
+    {
+      "id": "C168",
+      "x": -50.991,
+      "y": -25.418,
+      "z_base": 0.0,
+      "color": "blue",
+      "radius": 0.25
+    },
+    {
+      "id": "C169",
+      "x": -29.92,
+      "y": 35.377,
+      "z_base": 0.0,
+      "color": "yellow",
+      "radius": 0.25
+    },
+    {
+      "id": "C170",
+      "x": -48.093,
+      "y": 17.098,
+      "z_base": 0.0,
+      "color": "magenta",
+      "radius": 0.25
+    },
+    {
+      "id": "C171",
+      "x": 11.447,
+      "y": 51.927,
+      "z_base": 0.0,
+      "color": "cyan",
+      "radius": 0.25
+    },
+    {
+      "id": "C172",
+      "x": 16.995,
+      "y": 35.371,
+      "z_base": 0.0,
+      "color": "orange",
+      "radius": 0.25
+    },
+    {
+      "id": "C173",
+      "x": -18.42,
+      "y": 48.519,
+      "z_base": 0.0,
+      "color": "purple",
+      "radius": 0.25
+    },
+    {
+      "id": "C174",
+      "x": -35.734,
+      "y": 28.186,
+      "z_base": 0.0,
+      "color": "lime",
+      "radius": 0.25
+    },
+    {
+      "id": "C175",
+      "x": 9.393,
+      "y": -51.064,
+      "z_base": 0.0,
+      "color": "coral",
+      "radius": 0.25
+    },
+    {
+      "id": "C176",
+      "x": -19.055,
+      "y": -1.099,
+      "z_base": 0.0,
+      "color": "sky_blue",
+      "radius": 0.25
+    },
+    {
+      "id": "C177",
+      "x": -26.727,
+      "y": -20.421,
+      "z_base": 0.0,
+      "color": "pink",
+      "radius": 0.25
+    },
+    {
+      "id": "C178",
+      "x": -23.16,
+      "y": 51.266,
+      "z_base": 0.0,
+      "color": "olive",
+      "radius": 0.25
+    },
+    {
+      "id": "C179",
+      "x": 22.883,
+      "y": 50.928,
+      "z_base": 0.0,
+      "color": "light_green",
+      "radius": 0.25
+    },
+    {
+      "id": "C180",
+      "x": -36.272,
+      "y": -25.822,
+      "z_base": 0.0,
+      "color": "light_red",
+      "radius": 0.25
+    },
+    {
+      "id": "C181",
+      "x": 47.078,
+      "y": -0.471,
+      "z_base": 0.0,
+      "color": "red",
+      "radius": 0.25
+    },
+    {
+      "id": "C182",
+      "x": 27.589,
+      "y": -17.04,
+      "z_base": 0.0,
+      "color": "green",
+      "radius": 0.25
+    },
+    {
+      "id": "C183",
+      "x": -7.637,
+      "y": 24.334,
+      "z_base": 0.0,
+      "color": "blue",
+      "radius": 0.25
+    },
+    {
+      "id": "C184",
+      "x": -50.662,
+      "y": 46.19,
+      "z_base": 0.0,
+      "color": "yellow",
+      "radius": 0.25
+    },
+    {
+      "id": "C185",
+      "x": 36.903,
+      "y": 24.194,
+      "z_base": 0.0,
+      "color": "magenta",
+      "radius": 0.25
+    },
+    {
+      "id": "C186",
+      "x": 22.223,
+      "y": -6.095,
+      "z_base": 0.0,
+      "color": "cyan",
+      "radius": 0.25
+    },
+    {
+      "id": "C187",
+      "x": -42.681,
+      "y": -41.929,
+      "z_base": 0.0,
+      "color": "orange",
+      "radius": 0.25
+    },
+    {
+      "id": "C188",
+      "x": 13.021,
+      "y": -22.46,
+      "z_base": 0.0,
+      "color": "purple",
+      "radius": 0.25
+    },
+    {
+      "id": "C189",
+      "x": 53.19,
+      "y": -2.074,
+      "z_base": 0.0,
+      "color": "lime",
+      "radius": 0.25
+    },
+    {
+      "id": "C190",
+      "x": 0.382,
+      "y": -28.983,
+      "z_base": 0.0,
+      "color": "coral",
+      "radius": 0.25
+    },
+    {
+      "id": "C191",
+      "x": 49.282,
+      "y": -16.986,
+      "z_base": 0.0,
+      "color": "sky_blue",
+      "radius": 0.25
+    },
+    {
+      "id": "C192",
+      "x": -11.344,
+      "y": -48.275,
+      "z_base": 0.0,
+      "color": "pink",
+      "radius": 0.25
+    },
+    {
+      "id": "C193",
+      "x": 7.572,
+      "y": -26.404,
+      "z_base": 0.0,
+      "color": "olive",
+      "radius": 0.25
+    },
+    {
+      "id": "C194",
+      "x": 34.826,
+      "y": 46.167,
+      "z_base": 0.0,
+      "color": "light_green",
+      "radius": 0.25
+    },
+    {
+      "id": "C195",
+      "x": 0.087,
+      "y": -14.766,
+      "z_base": 0.0,
+      "color": "light_red",
+      "radius": 0.25
+    },
+    {
+      "id": "C196",
+      "x": 24.772,
+      "y": 36.035,
+      "z_base": 0.0,
+      "color": "red",
+      "radius": 0.25
+    },
+    {
+      "id": "C197",
+      "x": 19.57,
+      "y": 52.806,
+      "z_base": 0.0,
+      "color": "green",
+      "radius": 0.25
+    },
+    {
+      "id": "C198",
+      "x": -2.415,
+      "y": 48.414,
+      "z_base": 0.0,
+      "color": "blue",
+      "radius": 0.25
+    },
+    {
+      "id": "C199",
+      "x": 4.706,
+      "y": 46.532,
+      "z_base": 0.0,
+      "color": "yellow",
+      "radius": 0.25
+    },
+    {
+      "id": "C200",
+      "x": -7.539,
+      "y": -19.697,
+      "z_base": 0.0,
+      "color": "magenta",
+      "radius": 0.25
+    },
+    {
+      "id": "C201",
+      "x": -43.497,
+      "y": 50.155,
+      "z_base": 0.0,
+      "color": "cyan",
+      "radius": 0.25
+    },
+    {
+      "id": "C202",
+      "x": 20.142,
+      "y": -16.407,
+      "z_base": 0.0,
+      "color": "orange",
+      "radius": 0.25
+    },
+    {
+      "id": "C203",
+      "x": -43.69,
+      "y": 15.399,
+      "z_base": 0.0,
+      "color": "purple",
+      "radius": 0.25
+    },
+    {
+      "id": "C204",
+      "x": 45.436,
+      "y": 22.222,
+      "z_base": 0.0,
+      "color": "lime",
+      "radius": 0.25
+    },
+    {
+      "id": "C205",
+      "x": -32.689,
+      "y": -32.202,
+      "z_base": 0.0,
+      "color": "coral",
+      "radius": 0.25
+    },
+    {
+      "id": "C206",
+      "x": -19.36,
+      "y": -31.381,
+      "z_base": 0.0,
+      "color": "sky_blue",
+      "radius": 0.25
+    },
+    {
+      "id": "C207",
+      "x": -12.023,
+      "y": 16.571,
+      "z_base": 0.0,
+      "color": "pink",
+      "radius": 0.25
+    },
+    {
+      "id": "C208",
+      "x": -50.914,
+      "y": 26.365,
+      "z_base": 0.0,
+      "color": "olive",
+      "radius": 0.25
+    },
+    {
+      "id": "C209",
+      "x": -28.638,
+      "y": 19.805,
+      "z_base": 0.0,
+      "color": "light_green",
+      "radius": 0.25
+    },
+    {
+      "id": "C210",
+      "x": 44.645,
+      "y": -12.007,
+      "z_base": 0.0,
+      "color": "light_red",
+      "radius": 0.25
+    },
+    {
+      "id": "C211",
+      "x": 9.622,
+      "y": -23.198,
+      "z_base": 0.0,
+      "color": "red",
+      "radius": 0.25
+    },
+    {
+      "id": "C212",
+      "x": 50.5,
+      "y": 40.276,
+      "z_base": 0.0,
+      "color": "green",
+      "radius": 0.25
+    },
+    {
+      "id": "C213",
+      "x": -29.801,
+      "y": 28.557,
+      "z_base": 0.0,
+      "color": "blue",
+      "radius": 0.25
+    },
+    {
+      "id": "C214",
+      "x": 21.719,
+      "y": 22.292,
+      "z_base": 0.0,
+      "color": "yellow",
+      "radius": 0.25
+    },
+    {
+      "id": "C215",
+      "x": -2.61,
+      "y": 3.817,
+      "z_base": 0.0,
+      "color": "magenta",
+      "radius": 0.25
+    },
+    {
+      "id": "C216",
+      "x": 47.841,
+      "y": 47.214,
+      "z_base": 0.0,
+      "color": "cyan",
+      "radius": 0.25
+    },
+    {
+      "id": "C217",
+      "x": -4.329,
+      "y": -8.721,
+      "z_base": 0.0,
+      "color": "orange",
+      "radius": 0.25
+    },
+    {
+      "id": "C218",
+      "x": 21.886,
+      "y": 29.552,
+      "z_base": 0.0,
+      "color": "purple",
+      "radius": 0.25
+    },
+    {
+      "id": "C219",
+      "x": -46.105,
+      "y": 26.592,
+      "z_base": 0.0,
+      "color": "lime",
+      "radius": 0.25
+    },
+    {
+      "id": "C220",
+      "x": -3.778,
+      "y": 52.834,
+      "z_base": 0.0,
+      "color": "coral",
+      "radius": 0.25
+    },
+    {
+      "id": "C221",
+      "x": -9.132,
+      "y": -0.731,
+      "z_base": 0.0,
+      "color": "sky_blue",
+      "radius": 0.25
+    },
+    {
+      "id": "C222",
+      "x": 31.878,
+      "y": -44.969,
+      "z_base": 0.0,
+      "color": "pink",
+      "radius": 0.25
+    },
+    {
+      "id": "C223",
+      "x": 7.231,
+      "y": -44.156,
+      "z_base": 0.0,
+      "color": "olive",
+      "radius": 0.25
+    },
+    {
+      "id": "C224",
+      "x": 25.866,
+      "y": -51.492,
+      "z_base": 0.0,
+      "color": "light_green",
+      "radius": 0.25
+    },
+    {
+      "id": "C225",
+      "x": -21.783,
+      "y": 5.576,
+      "z_base": 0.0,
+      "color": "light_red",
+      "radius": 0.25
+    },
+    {
+      "id": "C226",
+      "x": 26.958,
+      "y": 15.587,
+      "z_base": 0.0,
+      "color": "red",
+      "radius": 0.25
+    },
+    {
+      "id": "C227",
+      "x": 25.498,
+      "y": 40.381,
+      "z_base": 0.0,
+      "color": "green",
+      "radius": 0.25
+    },
+    {
+      "id": "C228",
+      "x": -34.886,
+      "y": 35.686,
+      "z_base": 0.0,
+      "color": "blue",
+      "radius": 0.25
+    },
+    {
+      "id": "C229",
+      "x": -39.837,
+      "y": 0.19,
+      "z_base": 0.0,
+      "color": "yellow",
+      "radius": 0.25
+    },
+    {
+      "id": "C230",
+      "x": 6.23,
+      "y": 18.484,
+      "z_base": 0.0,
+      "color": "magenta",
+      "radius": 0.25
+    },
+    {
+      "id": "C231",
+      "x": 36.348,
+      "y": 37.536,
+      "z_base": 0.0,
+      "color": "cyan",
+      "radius": 0.25
+    },
+    {
+      "id": "C232",
+      "x": -53.909,
+      "y": -8.256,
+      "z_base": 0.0,
+      "color": "orange",
+      "radius": 0.25
+    },
+    {
+      "id": "C233",
+      "x": 12.112,
+      "y": -38.866,
+      "z_base": 0.0,
+      "color": "purple",
+      "radius": 0.25
+    },
+    {
+      "id": "C234",
+      "x": 28.913,
+      "y": 28.367,
+      "z_base": 0.0,
+      "color": "lime",
+      "radius": 0.25
+    },
+    {
+      "id": "C235",
+      "x": 23.098,
+      "y": -32.952,
+      "z_base": 0.0,
+      "color": "coral",
+      "radius": 0.25
+    },
+    {
+      "id": "C236",
+      "x": 39.12,
+      "y": -11.509,
+      "z_base": 0.0,
+      "color": "sky_blue",
+      "radius": 0.25
+    },
+    {
+      "id": "C237",
+      "x": -41.058,
+      "y": -19.747,
+      "z_base": 0.0,
+      "color": "pink",
+      "radius": 0.25
+    },
+    {
+      "id": "C238",
+      "x": 18.804,
+      "y": 39.767,
+      "z_base": 0.0,
+      "color": "olive",
+      "radius": 0.25
+    },
+    {
+      "id": "C239",
+      "x": -23.01,
+      "y": 39.77,
+      "z_base": 0.0,
+      "color": "light_green",
+      "radius": 0.25
+    },
+    {
+      "id": "C240",
+      "x": 5.629,
+      "y": 36.482,
+      "z_base": 0.0,
+      "color": "light_red",
+      "radius": 0.25
+    },
+    {
+      "id": "C241",
+      "x": -39.19,
+      "y": -52.697,
+      "z_base": 0.0,
+      "color": "red",
+      "radius": 0.25
+    },
+    {
+      "id": "C242",
+      "x": 12.531,
+      "y": 27.591,
+      "z_base": 0.0,
+      "color": "green",
+      "radius": 0.25
+    },
+    {
+      "id": "C243",
+      "x": 51.52,
+      "y": 15.345,
+      "z_base": 0.0,
+      "color": "blue",
+      "radius": 0.25
+    },
+    {
+      "id": "C244",
+      "x": -46.185,
+      "y": -33.211,
+      "z_base": 0.0,
+      "color": "yellow",
+      "radius": 0.25
+    },
+    {
+      "id": "C245",
+      "x": -33.397,
+      "y": -44.452,
+      "z_base": 0.0,
+      "color": "magenta",
+      "radius": 0.25
+    },
+    {
+      "id": "C246",
+      "x": -47.28,
+      "y": -20.305,
+      "z_base": 0.0,
+      "color": "cyan",
+      "radius": 0.25
+    },
+    {
+      "id": "C247",
+      "x": -39.196,
+      "y": 16.108,
+      "z_base": 0.0,
+      "color": "orange",
+      "radius": 0.25
+    },
+    {
+      "id": "C248",
+      "x": 25.718,
+      "y": -44.26,
+      "z_base": 0.0,
+      "color": "purple",
+      "radius": 0.25
+    },
+    {
+      "id": "C249",
+      "x": 12.267,
+      "y": -42.393,
+      "z_base": 0.0,
+      "color": "lime",
+      "radius": 0.25
+    },
+    {
+      "id": "C250",
+      "x": 11.087,
+      "y": -19.035,
+      "z_base": 0.0,
+      "color": "coral",
+      "radius": 0.25
+    },
+    {
+      "id": "C251",
+      "x": -14.976,
+      "y": -31.704,
+      "z_base": 0.0,
+      "color": "sky_blue",
+      "radius": 0.25
+    },
+    {
+      "id": "C252",
+      "x": -30.578,
+      "y": -2.417,
+      "z_base": 0.0,
+      "color": "pink",
+      "radius": 0.25
+    },
+    {
+      "id": "C253",
+      "x": 7.108,
+      "y": 10.791,
+      "z_base": 0.0,
+      "color": "olive",
+      "radius": 0.25
+    },
+    {
+      "id": "C254",
+      "x": 17.807,
+      "y": 24.009,
+      "z_base": 0.0,
+      "color": "light_green",
+      "radius": 0.25
+    },
+    {
+      "id": "C255",
+      "x": 48.75,
+      "y": -45.133,
+      "z_base": 0.0,
+      "color": "light_red",
+      "radius": 0.25
+    },
+    {
+      "id": "C256",
+      "x": -18.247,
+      "y": 4.773,
+      "z_base": 0.0,
+      "color": "red",
+      "radius": 0.25
+    },
+    {
+      "id": "C257",
+      "x": 36.991,
+      "y": -20.037,
+      "z_base": 0.0,
+      "color": "green",
+      "radius": 0.25
+    },
+    {
+      "id": "C258",
+      "x": -17.383,
+      "y": -27.648,
+      "z_base": 0.0,
+      "color": "blue",
+      "radius": 0.25
+    },
+    {
+      "id": "C259",
+      "x": 42.577,
+      "y": 46.622,
+      "z_base": 0.0,
+      "color": "yellow",
+      "radius": 0.25
+    },
+    {
+      "id": "C260",
+      "x": -49.476,
+      "y": 39.287,
+      "z_base": 0.0,
+      "color": "magenta",
+      "radius": 0.25
+    },
+    {
+      "id": "C261",
+      "x": -4.129,
+      "y": 17.245,
+      "z_base": 0.0,
+      "color": "cyan",
+      "radius": 0.25
+    },
+    {
+      "id": "C262",
+      "x": -43.52,
+      "y": 22.26,
+      "z_base": 0.0,
+      "color": "orange",
+      "radius": 0.25
+    },
+    {
+      "id": "C263",
+      "x": -31.845,
+      "y": -28.333,
+      "z_base": 0.0,
+      "color": "purple",
+      "radius": 0.25
+    },
+    {
+      "id": "C264",
+      "x": 25.505,
+      "y": 3.371,
+      "z_base": 0.0,
+      "color": "lime",
+      "radius": 0.25
+    },
+    {
+      "id": "C265",
+      "x": 47.801,
+      "y": 35.34,
+      "z_base": 0.0,
+      "color": "coral",
+      "radius": 0.25
+    },
+    {
+      "id": "C266",
+      "x": 11.822,
+      "y": -11.656,
+      "z_base": 0.0,
+      "color": "sky_blue",
+      "radius": 0.25
+    },
+    {
+      "id": "C267",
+      "x": -31.365,
+      "y": 9.506,
+      "z_base": 0.0,
+      "color": "pink",
+      "radius": 0.25
+    },
+    {
+      "id": "C268",
+      "x": 2.157,
+      "y": -3.332,
+      "z_base": 0.0,
+      "color": "olive",
+      "radius": 0.25
+    },
+    {
+      "id": "C269",
+      "x": 5.617,
+      "y": -9.529,
+      "z_base": 0.0,
+      "color": "light_green",
+      "radius": 0.25
+    },
+    {
+      "id": "C270",
+      "x": 13.001,
+      "y": 42.423,
+      "z_base": 0.0,
+      "color": "light_red",
+      "radius": 0.25
+    },
+    {
+      "id": "C271",
+      "x": 13.329,
+      "y": -26.847,
+      "z_base": 0.0,
+      "color": "red",
+      "radius": 0.25
+    },
+    {
+      "id": "C272",
+      "x": -30.909,
+      "y": 15.542,
+      "z_base": 0.0,
+      "color": "green",
+      "radius": 0.25
+    },
+    {
+      "id": "C273",
+      "x": 9.514,
+      "y": -15.553,
+      "z_base": 0.0,
+      "color": "blue",
+      "radius": 0.25
+    },
+    {
+      "id": "C274",
+      "x": 14.254,
+      "y": -51.646,
+      "z_base": 0.0,
+      "color": "yellow",
+      "radius": 0.25
+    },
+    {
+      "id": "C275",
+      "x": -20.205,
+      "y": -53.914,
+      "z_base": 0.0,
+      "color": "magenta",
+      "radius": 0.25
+    },
+    {
+      "id": "C276",
+      "x": 29.071,
+      "y": 44.296,
+      "z_base": 0.0,
+      "color": "cyan",
+      "radius": 0.25
+    },
+    {
+      "id": "C277",
+      "x": -46.541,
+      "y": 1.15,
+      "z_base": 0.0,
+      "color": "orange",
+      "radius": 0.25
+    },
+    {
+      "id": "C278",
+      "x": -0.358,
+      "y": -6.457,
+      "z_base": 0.0,
+      "color": "purple",
+      "radius": 0.25
+    },
+    {
+      "id": "C279",
+      "x": 7.352,
+      "y": -12.528,
+      "z_base": 0.0,
+      "color": "lime",
+      "radius": 0.25
+    },
+    {
+      "id": "C280",
+      "x": 6.985,
+      "y": 52.246,
+      "z_base": 0.0,
+      "color": "coral",
+      "radius": 0.25
+    },
+    {
+      "id": "C281",
+      "x": 5.911,
+      "y": 13.557,
+      "z_base": 0.0,
+      "color": "sky_blue",
+      "radius": 0.25
+    },
+    {
+      "id": "C282",
+      "x": 20.654,
+      "y": 33.365,
+      "z_base": 0.0,
+      "color": "pink",
+      "radius": 0.25
+    },
+    {
+      "id": "C283",
+      "x": 37.441,
+      "y": -16.774,
+      "z_base": 0.0,
+      "color": "olive",
+      "radius": 0.25
+    },
+    {
+      "id": "C284",
+      "x": -2.368,
+      "y": 39.076,
+      "z_base": 0.0,
+      "color": "light_green",
+      "radius": 0.25
+    },
+    {
+      "id": "C285",
+      "x": 52.066,
+      "y": 52.089,
+      "z_base": 0.0,
+      "color": "light_red",
+      "radius": 0.25
+    },
+    {
+      "id": "C286",
+      "x": -47.135,
+      "y": -38.076,
+      "z_base": 0.0,
+      "color": "red",
+      "radius": 0.25
+    },
+    {
+      "id": "C287",
+      "x": -33.15,
+      "y": 24.663,
+      "z_base": 0.0,
+      "color": "green",
+      "radius": 0.25
+    },
+    {
+      "id": "C288",
+      "x": -26.664,
+      "y": 24.317,
+      "z_base": 0.0,
+      "color": "blue",
+      "radius": 0.25
+    },
+    {
+      "id": "C289",
+      "x": -12.14,
+      "y": -21.361,
+      "z_base": 0.0,
+      "color": "yellow",
+      "radius": 0.25
+    },
+    {
+      "id": "C290",
+      "x": -16.123,
+      "y": -37.915,
+      "z_base": 0.0,
+      "color": "magenta",
+      "radius": 0.25
+    },
+    {
+      "id": "C291",
+      "x": -53.613,
+      "y": 14.994,
+      "z_base": 0.0,
+      "color": "cyan",
+      "radius": 0.25
+    },
+    {
+      "id": "C292",
+      "x": -49.439,
+      "y": -35.194,
+      "z_base": 0.0,
+      "color": "orange",
+      "radius": 0.25
+    },
+    {
+      "id": "C293",
+      "x": 28.052,
+      "y": 11.48,
+      "z_base": 0.0,
+      "color": "purple",
+      "radius": 0.25
+    },
+    {
+      "id": "C294",
+      "x": -46.179,
+      "y": 53.224,
+      "z_base": 0.0,
+      "color": "lime",
+      "radius": 0.25
+    },
+    {
+      "id": "C295",
+      "x": 18.389,
+      "y": 45.305,
+      "z_base": 0.0,
+      "color": "coral",
+      "radius": 0.25
+    },
+    {
+      "id": "C296",
+      "x": -45.738,
+      "y": -6.545,
+      "z_base": 0.0,
+      "color": "sky_blue",
+      "radius": 0.25
+    },
+    {
+      "id": "C297",
+      "x": -48.921,
+      "y": -1.497,
+      "z_base": 0.0,
+      "color": "pink",
+      "radius": 0.25
+    },
+    {
+      "id": "C298",
+      "x": 15.887,
+      "y": 29.168,
+      "z_base": 0.0,
+      "color": "olive",
+      "radius": 0.25
+    },
+    {
+      "id": "C299",
+      "x": -14.587,
+      "y": -9.373,
+      "z_base": 0.0,
+      "color": "light_green",
+      "radius": 0.25
+    },
+    {
+      "id": "C300",
+      "x": -14.627,
+      "y": -47.014,
+      "z_base": 0.0,
+      "color": "light_red",
+      "radius": 0.25
+    },
+    {
+      "id": "C301",
+      "x": 51.306,
+      "y": 8.418,
+      "z_base": 0.0,
+      "color": "red",
+      "radius": 0.25
+    },
+    {
+      "id": "C302",
+      "x": 2.506,
+      "y": 4.963,
+      "z_base": 0.0,
+      "color": "green",
+      "radius": 0.25
+    },
+    {
+      "id": "C303",
+      "x": 8.539,
+      "y": -8.781,
+      "z_base": 0.0,
+      "color": "blue",
+      "radius": 0.25
+    },
+    {
+      "id": "C304",
+      "x": -38.21,
+      "y": -13.366,
+      "z_base": 0.0,
+      "color": "yellow",
+      "radius": 0.25
+    },
+    {
+      "id": "C305",
+      "x": -5.213,
+      "y": -28.838,
+      "z_base": 0.0,
+      "color": "magenta",
+      "radius": 0.25
+    },
+    {
+      "id": "C306",
+      "x": -51.16,
+      "y": 17.737,
+      "z_base": 0.0,
+      "color": "cyan",
+      "radius": 0.25
+    },
+    {
+      "id": "C307",
+      "x": 9.218,
+      "y": 21.293,
+      "z_base": 0.0,
+      "color": "orange",
+      "radius": 0.25
+    },
+    {
+      "id": "C308",
+      "x": -22.543,
+      "y": 10.418,
+      "z_base": 0.0,
+      "color": "purple",
+      "radius": 0.25
+    },
+    {
+      "id": "C309",
+      "x": -11.758,
+      "y": -43.233,
+      "z_base": 0.0,
+      "color": "lime",
+      "radius": 0.25
+    },
+    {
+      "id": "C310",
+      "x": 39.926,
+      "y": -28.749,
+      "z_base": 0.0,
+      "color": "coral",
+      "radius": 0.25
+    },
+    {
+      "id": "C311",
+      "x": -12.979,
+      "y": -3.116,
+      "z_base": 0.0,
+      "color": "sky_blue",
+      "radius": 0.25
+    },
+    {
+      "id": "C312",
+      "x": -51.252,
+      "y": -20.006,
+      "z_base": 0.0,
+      "color": "pink",
+      "radius": 0.25
+    },
+    {
+      "id": "C313",
+      "x": 37.034,
+      "y": 28.301,
+      "z_base": 0.0,
+      "color": "olive",
+      "radius": 0.25
+    },
+    {
+      "id": "C314",
+      "x": 31.687,
+      "y": 0.658,
+      "z_base": 0.0,
+      "color": "light_green",
+      "radius": 0.25
+    },
+    {
+      "id": "C315",
+      "x": -7.974,
+      "y": -52.634,
+      "z_base": 0.0,
+      "color": "light_red",
+      "radius": 0.25
+    },
+    {
+      "id": "C316",
+      "x": -29.193,
+      "y": 53.421,
+      "z_base": 0.0,
+      "color": "red",
+      "radius": 0.25
+    },
+    {
+      "id": "C317",
+      "x": 1.57,
+      "y": 47.713,
+      "z_base": 0.0,
+      "color": "green",
+      "radius": 0.25
+    },
+    {
+      "id": "C318",
+      "x": 38.243,
+      "y": 8.973,
+      "z_base": 0.0,
+      "color": "blue",
+      "radius": 0.25
+    },
+    {
+      "id": "C319",
+      "x": 26.238,
+      "y": -11.132,
+      "z_base": 0.0,
+      "color": "yellow",
+      "radius": 0.25
+    },
+    {
+      "id": "C320",
+      "x": -48.001,
+      "y": 42.575,
+      "z_base": 0.0,
+      "color": "magenta",
+      "radius": 0.25
+    },
+    {
+      "id": "C321",
+      "x": 21.934,
+      "y": -52.419,
+      "z_base": 0.0,
+      "color": "cyan",
+      "radius": 0.25
+    },
+    {
+      "id": "C322",
+      "x": -45.685,
+      "y": 4.52,
+      "z_base": 0.0,
+      "color": "orange",
+      "radius": 0.25
+    },
+    {
+      "id": "C323",
+      "x": -33.808,
+      "y": -11.933,
+      "z_base": 0.0,
+      "color": "purple",
+      "radius": 0.25
+    },
+    {
+      "id": "C324",
+      "x": -43.216,
+      "y": 34.413,
+      "z_base": 0.0,
+      "color": "lime",
+      "radius": 0.25
+    },
+    {
+      "id": "C325",
+      "x": -44.512,
+      "y": 12.28,
+      "z_base": 0.0,
+      "color": "coral",
+      "radius": 0.25
+    },
+    {
+      "id": "C326",
+      "x": -32.313,
+      "y": -38.042,
+      "z_base": 0.0,
+      "color": "sky_blue",
+      "radius": 0.25
+    },
+    {
+      "id": "C327",
+      "x": -48.906,
+      "y": -52.039,
+      "z_base": 0.0,
+      "color": "pink",
+      "radius": 0.25
+    },
+    {
+      "id": "C328",
+      "x": 11.029,
+      "y": -47.599,
+      "z_base": 0.0,
+      "color": "olive",
+      "radius": 0.25
+    },
+    {
+      "id": "C329",
+      "x": 22.798,
+      "y": -26.762,
+      "z_base": 0.0,
+      "color": "light_green",
+      "radius": 0.25
+    },
+    {
+      "id": "C330",
+      "x": -16.13,
+      "y": 38.342,
+      "z_base": 0.0,
+      "color": "light_red",
+      "radius": 0.25
+    },
+    {
+      "id": "C331",
+      "x": 12.35,
+      "y": -3.977,
+      "z_base": 0.0,
+      "color": "red",
+      "radius": 0.25
+    },
+    {
+      "id": "C332",
+      "x": -10.453,
+      "y": 8.181,
+      "z_base": 0.0,
+      "color": "green",
+      "radius": 0.25
+    },
+    {
+      "id": "C333",
+      "x": -23.133,
+      "y": -2.982,
+      "z_base": 0.0,
+      "color": "blue",
+      "radius": 0.25
+    },
+    {
+      "id": "C334",
+      "x": 4.502,
+      "y": -14.59,
+      "z_base": 0.0,
+      "color": "yellow",
+      "radius": 0.25
+    },
+    {
+      "id": "C335",
+      "x": 10.241,
+      "y": 1.339,
+      "z_base": 0.0,
+      "color": "magenta",
+      "radius": 0.25
+    },
+    {
+      "id": "C336",
+      "x": -21.689,
+      "y": 46.894,
+      "z_base": 0.0,
+      "color": "cyan",
+      "radius": 0.25
+    },
+    {
+      "id": "C337",
+      "x": 37.214,
+      "y": 4.756,
+      "z_base": 0.0,
+      "color": "orange",
+      "radius": 0.25
+    },
+    {
+      "id": "C338",
+      "x": -47.764,
+      "y": -9.673,
+      "z_base": 0.0,
+      "color": "purple",
+      "radius": 0.25
+    },
+    {
+      "id": "C339",
+      "x": -9.291,
+      "y": -33.638,
+      "z_base": 0.0,
+      "color": "lime",
+      "radius": 0.25
+    },
+    {
+      "id": "C340",
+      "x": -11.47,
+      "y": 29.524,
+      "z_base": 0.0,
+      "color": "coral",
+      "radius": 0.25
+    },
+    {
+      "id": "C341",
+      "x": 1.561,
+      "y": 25.547,
+      "z_base": 0.0,
+      "color": "sky_blue",
+      "radius": 0.25
+    },
+    {
+      "id": "C342",
+      "x": -44.936,
+      "y": 18.345,
+      "z_base": 0.0,
+      "color": "pink",
+      "radius": 0.25
+    },
+    {
+      "id": "C343",
+      "x": -5.3,
+      "y": -35.387,
+      "z_base": 0.0,
+      "color": "olive",
+      "radius": 0.25
+    },
+    {
+      "id": "C344",
+      "x": 28.242,
+      "y": 0.908,
+      "z_base": 0.0,
+      "color": "light_green",
+      "radius": 0.25
+    },
+    {
+      "id": "C345",
+      "x": -11.636,
+      "y": -36.918,
+      "z_base": 0.0,
+      "color": "light_red",
+      "radius": 0.25
+    },
+    {
+      "id": "C346",
+      "x": -51.586,
+      "y": -48.04,
+      "z_base": 0.0,
+      "color": "red",
+      "radius": 0.25
+    },
+    {
+      "id": "C347",
+      "x": 14.678,
+      "y": 38.098,
+      "z_base": 0.0,
+      "color": "green",
+      "radius": 0.25
+    },
+    {
+      "id": "C348",
+      "x": 28.71,
+      "y": 51.442,
+      "z_base": 0.0,
+      "color": "blue",
+      "radius": 0.25
+    },
+    {
+      "id": "C349",
+      "x": -6.691,
+      "y": 40.98,
+      "z_base": 0.0,
+      "color": "yellow",
+      "radius": 0.25
+    },
+    {
+      "id": "C350",
+      "x": 5.54,
+      "y": -30.636,
+      "z_base": 0.0,
+      "color": "magenta",
+      "radius": 0.25
+    },
+    {
+      "id": "C351",
+      "x": 1.468,
+      "y": -11.208,
+      "z_base": 0.0,
+      "color": "cyan",
+      "radius": 0.25
+    },
+    {
+      "id": "C352",
+      "x": -11.49,
+      "y": -12.452,
+      "z_base": 0.0,
+      "color": "orange",
+      "radius": 0.25
+    },
+    {
+      "id": "C353",
+      "x": -49.101,
+      "y": 8.892,
+      "z_base": 0.0,
+      "color": "purple",
+      "radius": 0.25
+    },
+    {
+      "id": "C354",
+      "x": -52.086,
+      "y": 23.534,
+      "z_base": 0.0,
+      "color": "lime",
+      "radius": 0.25
+    },
+    {
+      "id": "C355",
+      "x": 51.93,
+      "y": -38.299,
+      "z_base": 0.0,
+      "color": "coral",
+      "radius": 0.25
+    },
+    {
+      "id": "C356",
+      "x": -33.103,
+      "y": -17.218,
+      "z_base": 0.0,
+      "color": "sky_blue",
+      "radius": 0.25
+    },
+    {
+      "id": "C357",
+      "x": -22.6,
+      "y": -45.727,
+      "z_base": 0.0,
+      "color": "pink",
+      "radius": 0.25
+    },
+    {
+      "id": "C358",
+      "x": 34.016,
+      "y": 16.029,
+      "z_base": 0.0,
+      "color": "olive",
+      "radius": 0.25
+    },
+    {
+      "id": "C359",
+      "x": -2.738,
+      "y": 26.608,
+      "z_base": 0.0,
+      "color": "light_green",
+      "radius": 0.25
+    },
+    {
+      "id": "C360",
+      "x": -19.197,
+      "y": 24.736,
+      "z_base": 0.0,
+      "color": "light_red",
+      "radius": 0.25
+    },
+    {
+      "id": "C361",
+      "x": 1.609,
+      "y": 39.302,
+      "z_base": 0.0,
+      "color": "red",
+      "radius": 0.25
+    },
+    {
+      "id": "C362",
+      "x": 35.695,
+      "y": -37.854,
+      "z_base": 0.0,
+      "color": "green",
+      "radius": 0.25
+    },
+    {
+      "id": "C363",
+      "x": 53.515,
+      "y": -46.214,
+      "z_base": 0.0,
+      "color": "blue",
+      "radius": 0.25
+    },
+    {
+      "id": "C364",
+      "x": -17.698,
+      "y": -41.515,
+      "z_base": 0.0,
+      "color": "yellow",
+      "radius": 0.25
+    },
+    {
+      "id": "C365",
+      "x": -39.046,
+      "y": 22.715,
+      "z_base": 0.0,
+      "color": "magenta",
+      "radius": 0.25
+    },
+    {
+      "id": "C366",
+      "x": -40.837,
+      "y": -28.681,
+      "z_base": 0.0,
+      "color": "cyan",
+      "radius": 0.25
+    },
+    {
+      "id": "C367",
+      "x": -18.486,
+      "y": -7.881,
+      "z_base": 0.0,
+      "color": "orange",
+      "radius": 0.25
+    },
+    {
+      "id": "C368",
+      "x": 52.617,
+      "y": -18.259,
+      "z_base": 0.0,
+      "color": "purple",
+      "radius": 0.25
+    },
+    {
+      "id": "C369",
+      "x": 43.607,
+      "y": -15.648,
+      "z_base": 0.0,
+      "color": "lime",
+      "radius": 0.25
+    },
+    {
+      "id": "C370",
+      "x": -11.285,
+      "y": 50.232,
+      "z_base": 0.0,
+      "color": "coral",
+      "radius": 0.25
+    },
+    {
+      "id": "C371",
+      "x": -16.826,
+      "y": 33.768,
+      "z_base": 0.0,
+      "color": "sky_blue",
+      "radius": 0.25
+    },
+    {
+      "id": "C372",
+      "x": 8.573,
+      "y": 34.789,
+      "z_base": 0.0,
+      "color": "pink",
+      "radius": 0.25
+    },
+    {
+      "id": "C373",
+      "x": -25.223,
+      "y": -33.077,
+      "z_base": 0.0,
+      "color": "olive",
+      "radius": 0.25
+    },
+    {
+      "id": "C374",
+      "x": -32.724,
+      "y": -50.329,
+      "z_base": 0.0,
+      "color": "light_green",
+      "radius": 0.25
+    },
+    {
+      "id": "C375",
+      "x": 10.493,
+      "y": -32.676,
+      "z_base": 0.0,
+      "color": "light_red",
+      "radius": 0.25
+    },
+    {
+      "id": "C376",
+      "x": 12.242,
+      "y": 18.403,
+      "z_base": 0.0,
+      "color": "red",
+      "radius": 0.25
+    },
+    {
+      "id": "C377",
+      "x": 22.695,
+      "y": -40.214,
+      "z_base": 0.0,
+      "color": "green",
+      "radius": 0.25
+    },
+    {
+      "id": "C378",
+      "x": -6.284,
+      "y": -39.06,
+      "z_base": 0.0,
+      "color": "blue",
+      "radius": 0.25
+    },
+    {
+      "id": "C379",
+      "x": 32.45,
+      "y": 18.624,
+      "z_base": 0.0,
+      "color": "yellow",
+      "radius": 0.25
+    },
+    {
+      "id": "C380",
+      "x": -6.338,
+      "y": 29.133,
+      "z_base": 0.0,
+      "color": "magenta",
+      "radius": 0.25
+    },
+    {
+      "id": "C381",
+      "x": 30.858,
+      "y": -53.812,
+      "z_base": 0.0,
+      "color": "cyan",
+      "radius": 0.25
+    },
+    {
+      "id": "C382",
+      "x": 32.389,
+      "y": -8.394,
+      "z_base": 0.0,
+      "color": "orange",
+      "radius": 0.25
+    },
+    {
+      "id": "C383",
+      "x": -21.094,
+      "y": -41.661,
+      "z_base": 0.0,
+      "color": "purple",
+      "radius": 0.25
+    },
+    {
+      "id": "C384",
+      "x": 38.003,
+      "y": -34.183,
+      "z_base": 0.0,
+      "color": "lime",
+      "radius": 0.25
+    },
+    {
+      "id": "C385",
+      "x": 53.805,
+      "y": -6.444,
+      "z_base": 0.0,
+      "color": "coral",
+      "radius": 0.25
+    },
+    {
+      "id": "C386",
+      "x": 31.806,
+      "y": 32.094,
+      "z_base": 0.0,
+      "color": "sky_blue",
+      "radius": 0.25
+    },
+    {
+      "id": "C387",
+      "x": 30.282,
+      "y": -33.015,
+      "z_base": 0.0,
+      "color": "pink",
+      "radius": 0.25
+    },
+    {
+      "id": "C388",
+      "x": 3.393,
+      "y": -25.571,
+      "z_base": 0.0,
+      "color": "olive",
+      "radius": 0.25
+    },
+    {
+      "id": "C389",
+      "x": -41.587,
+      "y": -37.024,
+      "z_base": 0.0,
+      "color": "light_green",
+      "radius": 0.25
+    },
+    {
+      "id": "C390",
+      "x": -34.796,
+      "y": 51.922,
+      "z_base": 0.0,
+      "color": "light_red",
+      "radius": 0.25
+    },
+    {
+      "id": "C391",
+      "x": 52.07,
+      "y": 0.921,
+      "z_base": 0.0,
+      "color": "red",
+      "radius": 0.25
+    },
+    {
+      "id": "C392",
+      "x": -6.868,
+      "y": -43.844,
+      "z_base": 0.0,
+      "color": "green",
+      "radius": 0.25
+    },
+    {
+      "id": "C393",
+      "x": 12.277,
+      "y": 12.724,
+      "z_base": 0.0,
+      "color": "blue",
+      "radius": 0.25
+    },
+    {
+      "id": "C394",
+      "x": 34.77,
+      "y": 0.289,
+      "z_base": 0.0,
+      "color": "yellow",
+      "radius": 0.25
+    },
+    {
+      "id": "C395",
+      "x": 4.474,
+      "y": 9.264,
+      "z_base": 0.0,
+      "color": "magenta",
+      "radius": 0.25
+    },
+    {
+      "id": "C396",
+      "x": 13.658,
+      "y": -30.228,
+      "z_base": 0.0,
+      "color": "cyan",
+      "radius": 0.25
+    },
+    {
+      "id": "C397",
+      "x": 17.412,
+      "y": -32.696,
+      "z_base": 0.0,
+      "color": "orange",
+      "radius": 0.25
+    },
+    {
+      "id": "C398",
+      "x": -14.638,
+      "y": 12.627,
+      "z_base": 0.0,
+      "color": "purple",
+      "radius": 0.25
+    },
+    {
+      "id": "C399",
+      "x": -12.483,
+      "y": -27.544,
+      "z_base": 0.0,
+      "color": "lime",
+      "radius": 0.25
+    },
+    {
+      "id": "C400",
+      "x": 32.32,
+      "y": -2.778,
+      "z_base": 0.0,
+      "color": "coral",
+      "radius": 0.25
+    }
+  ]
+}

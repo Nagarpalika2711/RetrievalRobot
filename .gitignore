@@ -1,0 +1,19 @@
+# ROS 2 build files
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Generated TF diagrams
+frames_*.gv
+frames_*.pdf
+
+# Temporary files
+*.swp
+*~
